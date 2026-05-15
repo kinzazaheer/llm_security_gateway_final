@@ -4,8 +4,8 @@ A robust multilingual security gateway that protects LLM applications
 from prompt injection, jailbreak attacks, PII leakage, and multilingual/
 paraphrased attacks.
 
-**Student Name:** [Your Name]
-**Registration No:** [Your Reg No]
+**Student Name:** [Kinza Rani]
+**Registration No:** [FA24-BCS-055]
 **Course:** CSC 262 — Artificial Intelligence
 **Instructor:** Tooba Tehreem
 
